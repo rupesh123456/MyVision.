@@ -1,0 +1,127 @@
+body{
+    background: url('../media/wisdom.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Roboto';
+}
+.transparent{
+    opacity: 0.8;
+}
+.navbar-brand{
+    font-family: 'Dancing Script';
+    font-size: 2em;
+    padding-left: 0px;
+}
+.fa{
+    font-size: 1.8em;
+    padding: 0 10px;
+    color: deepskyblue;
+}
+#header{
+    font-family: 'Libre Baskerville';
+    color: whitesmoke;
+    
+}
+#header .container-fluid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 90vh;
+    
+}
+h1{ 
+   font-size: 2.8rem;
+   line-height: 1.7em;
+   background: rgba(0,0,0,0.4);
+}
+
+.jumbotron{
+    font-family: fantasy !important;
+    background-color:darkslategrey;
+    opacity: 0.8;
+}
+
+#content .author img{
+    border: 1px solid black;
+    border-radius: 35px;
+}
+#content .about {
+    font-size: 2em;
+    font-family: 'Dancing Script' !important;
+    border: 1px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: aqua;
+}
+#content .about:hover{
+    background-color: antiquewhite;
+    transition: 1s;
+}
+#content .para{
+    font-family: 'Roboto';
+    line-height: 1.8em;
+    padding: 5px 20px;
+    word-spacing: 1px;
+    color: azure;
+}
+
+#content h3{
+    padding: 20px;
+    font-size: 1.6em;
+    font-family:'Montez';
+    color: aliceblue;
+}
+#content .stories{
+    text-align: center;
+    line-height: 2em;
+    font-size: 1.4em;
+    border: 2px double darkgray;
+    margin-top: 35px;
+}
+#content li{
+    
+    list-style-type: lower-roman;
+    margin-right: 15px;
+    padding: 0px 5px 0 0;
+    margin-left: 0px;
+}
+#content a{
+    text-decoration: none;
+}
+#content a:hover{
+    color: black;
+    transition-duration: 1s;
+    transition: 1s;
+}
+
+#define .container-fluid{
+    height: 150vh;
+}
+
+#define .container-fluid{
+    padding: 50px;
+    margin-top: 150px;
+    background: url('../media/desktop-background-3091214_1920.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+#define .jumbotron{
+    color: darkblue;
+    font-size: 2em;
+    background-color: azure;
+    opacity: 0.3;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    
+}
+#define .follow{
+    font-size: 0.5em;
+}
+
+footer{
+    background: black;
+    padding: 20px;
+    margin-top: 0px;
+    font-size: 1.3em;
+    color: antiquewhite;
+}
