@@ -4,12 +4,12 @@ body{
     font-family: 'Roboto';
 }
 .transparent{
-    opacity: 0.8;
+    opacity: 1.2;
 }
 .navbar-brand{
     font-family: 'Dancing Script';
-    font-size: 2em;
-    padding-left: 0px;
+    font-size: 4em;
+    padding-left: 1px;
 }
 .fa{
     font-size: 1.8em;
