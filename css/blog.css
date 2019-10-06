@@ -42,7 +42,7 @@ h1{
 
 #content .author img{
     border: 1px solid black;
-    border-radius: 35px;
+    border-radius: 30px;
 }
 #content .about {
     font-size: 2em;
@@ -62,7 +62,7 @@ h1{
     line-height: 1.8em;
     padding: 5px 20px;
     word-spacing: 1px;
-    color: azure;
+    color: cyan;
 }
 
 #content h3{
@@ -83,7 +83,7 @@ h1{
     list-style-type: lower-roman;
     margin-right: 15px;
     padding: 0px 5px 0 0;
-    margin-left: 0px;
+    margin-left: 10px;
 }
 #content a{
     text-decoration: none;
